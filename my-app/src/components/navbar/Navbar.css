@@ -1,0 +1,18 @@
+.navbar{
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar .navbar-brand{
+    font-weight: bold !important;
+    margin-left:7rem;
+}
+
+.navbar .navbar-nav{
+    margin-right:7rem;
+}
+
+.menu-item-text{
+    color: white !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+}

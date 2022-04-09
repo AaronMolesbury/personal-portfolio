@@ -1,7 +1,12 @@
+import Navbar from './components/navbar/Navbar';
 import logo from './logo.svg';
 
 function App() {
-  return (null
+  return (
+    <div className="my-app">
+      <Navbar />
+    </div>
+    
   );
 }
 
