@@ -1,11 +1,12 @@
 import Navbar from './components/navbar/Navbar';
+import "./App.css";
 import logo from './logo.svg';
 
 function App() {
   return (
-    <div className="my-app">
+    <body class="body">
       <Navbar />
-    </div>
+    </body>
     
   );
 }
