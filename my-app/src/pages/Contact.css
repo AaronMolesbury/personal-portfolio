@@ -1,13 +1,13 @@
-.h1 {
+.ch1 {
     font-size: 200%;
     font-weight: 900 !important;
     margin-top: 10%;
+    color: white;
 }
 
-.p1{
+.cp1{
     font-size: 100%;
-    color: rgb(255, 255, 255);
-    
+    color: white;
 }
 
 .forms {
@@ -15,4 +15,16 @@
     justify-content: center !important;
     margin: auto ;
     margin-top: 7.5%;
+}
+
+.send-button{
+    font-weight: 900;
+}
+
+.name-box{
+    width: 245px;
+}
+
+.first-name-box{
+    margin-right: 10px;
 }

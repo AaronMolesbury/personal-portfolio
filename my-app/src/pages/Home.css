@@ -1,21 +1,23 @@
-.c1{
+.hc1{
     margin-top: 10%;
     margin-right:15%;
     width: auto;
     height: auto;
 }
 
-.p1{
-    color: rgb(151, 151, 151);
+.hp1{
+    color: rgb(100, 100, 100);
     font-size: 150%;
+    font-weight: 600;
 }
 
-.p2{
+.hp2{
     color: rgb(255, 255, 255);
     font-size: 120%;
+    font-weight: 400;
 }
 
-.h1{
+.hh1{
     font-weight: bolder !important;
     font-size: 500%;
     color: white;
@@ -23,4 +25,8 @@
 
 .navbar{
     justify-content: center !important;
+}
+
+.about-button{
+    font-weight: 900;
 }

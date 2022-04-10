@@ -33,16 +33,16 @@ function Navbar() {
         </MDBNavbarToggler>
         <MDBCollapse show={showNavColorSecond} navbar id='navbarColor02'>
           <MDBNavbarNav right fullWidth={false} >
-            <MDBNavbarItem>
+            <MDBNavbarItem right>
               <MDBNavbarLink href='/about' className='menu-item-text'>About Me</MDBNavbarLink>
             </MDBNavbarItem>
-            <MDBNavbarItem>
+            <MDBNavbarItem right>
               <MDBNavbarLink href='/portfolio' className='menu-item-text'>Portfolio</MDBNavbarLink>
             </MDBNavbarItem>
-            <MDBNavbarItem>
+            <MDBNavbarItem right>
               <MDBNavbarLink href='/cv' className='menu-item-text'>Curriculum Vitae</MDBNavbarLink>
             </MDBNavbarItem>
-            <MDBNavbarItem>
+            <MDBNavbarItem right>
               <MDBNavbarLink href='/contact' className='menu-item-text'>Contact Me</MDBNavbarLink>
             </MDBNavbarItem>
           </MDBNavbarNav>

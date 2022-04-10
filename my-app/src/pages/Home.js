@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import "../pages/Home.css";
+import "./Home.css";
 import { 
   MDBBtn,
   MDBIcon,
@@ -11,15 +11,15 @@ import {
 function Home() {
     return (
         <div>
-          <div class="container-lg c1">
-            <p1 class="p1">
+          <div class="container-lg hc1">
+            <p1 class="hp1">
               Junior Software Developer
             </p1>
-            <h1 class = "h1">
+            <h1 class = "hh1">
               Aaron Molesbury
             </h1>
             <br/>
-            <p2 class="p2">
+            <p2 class="hp2">
               Hi, I'm Aaron! I have recently graduated from Heriot Watt University 
               with a degree <br/> in Computer Science and I'm looking to begin my Software Developer journey.
               You can<br/> learn more about what I can offer below.
@@ -27,7 +27,7 @@ function Home() {
             <br/>
             <br/>
             <Link to="/about">
-              <button type="button" class="btn btn-dark btn-rounded" >
+              <button type="button" class="btn btn-dark btn-rounded about-button" >
                 About Me
               </button> 
             </Link>
