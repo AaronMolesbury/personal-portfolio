@@ -12,13 +12,13 @@ import {
   MDBCollapse
 } from 'mdb-react-ui-kit';
 
-export default function App() {
+function Navbar() {
   const [showNavColorSecond, setShowNavColorSecond] = useState(false);
 
   return (
-    <MDBNavbar expand='lg' dark bgColor='black'>
+    <MDBNavbar sticky expand='lg' dark>
       <MDBContainer fluid>
-        <MDBNavbarBrand href='#' >
+        <MDBNavbarBrand href='/' >
           Aaron Molesbury  
         </MDBNavbarBrand>
         <MDBNavbarToggler
@@ -34,16 +34,16 @@ export default function App() {
         <MDBCollapse show={showNavColorSecond} navbar id='navbarColor02'>
           <MDBNavbarNav right fullWidth={false} >
             <MDBNavbarItem>
-              <MDBNavbarLink href='#' className='menu-item-text'>About Me</MDBNavbarLink>
+              <MDBNavbarLink href='/about' className='menu-item-text'>About Me</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='#' className='menu-item-text'>Portfolio</MDBNavbarLink>
+              <MDBNavbarLink href='/portfolio' className='menu-item-text'>Portfolio</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='#' className='menu-item-text'>Curriculum Vitae</MDBNavbarLink>
+              <MDBNavbarLink href='/cv' className='menu-item-text'>Curriculum Vitae</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='#' className='menu-item-text'>Contact Me</MDBNavbarLink>
+              <MDBNavbarLink href='/contact' className='menu-item-text'>Contact Me</MDBNavbarLink>
             </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>
@@ -51,3 +51,5 @@ export default function App() {
     </MDBNavbar>
   );
 }
+
+export default Navbar
