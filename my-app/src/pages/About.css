@@ -1,0 +1,47 @@
+.about-header{
+    margin: auto;
+    margin-top: 100px;
+    width: 80%;
+    justify-content: center !important;
+}
+
+.about-body{
+    margin: auto;
+    width: 70%;
+    justify-content: center !important;
+}
+
+.ah1{
+    font-weight: bolder !important;
+    font-size: 600%;
+    color: white;
+}
+
+.ah2{
+    font-weight:normal !important;
+    font-size: 300%;
+    color: white;
+    padding-top: 50px;
+}
+
+.ap1{
+    font-weight:normal !important;
+    font-size: 125%;
+    color: white;
+    padding-top: 20px;
+}
+
+.li-header{
+    font-weight:normal !important;
+    font-size: 150%;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.ali{
+    font-weight:normal !important;
+    font-size: 125%;
+    color: white;
+    padding-left: 50px;
+}
