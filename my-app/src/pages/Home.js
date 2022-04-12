@@ -10,7 +10,7 @@ import {
 
 function Home() {
     return (
-        <div>
+        <>
           <div class="container-lg hc1">
             <p1 class="hp1">
               Junior Software Developer
@@ -40,7 +40,7 @@ function Home() {
                 <MDBIcon fab icon='linkedin' size='lg' />
               </MDBBtn>
           </MDBNavbar>
-        </div>
+        </>
         
         
       );
