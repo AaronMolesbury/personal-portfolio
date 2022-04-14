@@ -36,11 +36,9 @@ function Home() {
             <MDBBtn tag='a' color='none' className='m-1' style={{ color: '#dd4b39' }}>
               <MDBIcon fab icon='google' size='lg' />
             </MDBBtn>
-            <a href="www.linkedin.com/in/aaron-molesbury">
-              <MDBBtn href="www.linkedin.com/in/aaron-molesbury" tag='a' color='none' className='m-1' style={{ color: '#0082ca' }}>
+              <MDBBtn href="https://www.linkedin.com/in/aaron-molesbury" tag='a' color='none' className='m-1' style={{ color: '#0082ca' }}>
                 <MDBIcon fab icon='linkedin' size='lg' />
               </MDBBtn>
-            </a>
           </MDBNavbar>
         </>
         
