@@ -22,7 +22,7 @@ function About() {
           Games Programming and Design, VR and AR System designs and Web Development. 
           Generally I would be happy working on any software applications over an array of 
           different languages. From my education, I have experienced a wide range of programming languages (see CV) 
-          as well as different coding styles, systems and datastructures.  
+          as well as different coding styles, systems and datastructures. Test 
         </p>
         <p class="ap1">
           As a colleague, I believe I would fit into almost any team and would be able to work alongside
