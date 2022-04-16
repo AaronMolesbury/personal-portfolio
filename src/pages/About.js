@@ -27,7 +27,7 @@ function About() {
         <p class="ap1">
           As a colleague, I believe I would fit into almost any team and would be able to work alongside
           fellow co-workers. This is due to my friendly nature coupled with a hard work ethic since it makes me 
-          a dependent and reliable worker. From 
+          a dependent and reliable worker.
         </p>
         <h2 class="ah2">
           Educational Attainment
