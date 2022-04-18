@@ -22,12 +22,21 @@ function About() {
           Games Programming and Design, VR and AR System designs and Web Development. 
           Generally I would be happy working on any software applications over an array of 
           different languages. From my education, I have experienced a wide range of programming languages (see CV) 
-          as well as different coding styles, systems and datastructures. Test 
+          as well as different coding styles, systems and datastructures. 
         </p>
         <p class="ap1">
           As a colleague, I believe I would fit into almost any team and would be able to work alongside
           fellow co-workers. This is due to my friendly nature coupled with a hard work ethic since it makes me 
-          a dependent and reliable worker.
+          a dependent and reliable worker. I am driven by the idea of progression. I want to learn new skills
+          and keep raising my ceiling to become a better worker and programmer and I want my career achievements to 
+          reflect this mentality.
+        </p>
+        <p class="ap1">
+          In my personal life, I take great interest in maintaining my physical and mental health through fun activities
+          such as sports (mainly Football, Formula 1 and Bouldering), playing video games and going to the gym. I am aiming
+          to move to Manchester, England to begin my career since I love the city and have visited it often from young. 
+          However, I originally come from York, England. I own a full UK drivers license and also have the right to work in
+          the UK.
         </p>
         <h2 class="ah2">
           Educational Attainment
